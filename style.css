@@ -1,0 +1,75 @@
+.one{
+    padding:10px;
+    background-color: black;
+    color:powderblue;
+    border-radius: 10px;
+
+}
+#s:hover{
+    color: grey;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color:powderblue;
+}
+.ab{
+    padding-left: 650px;
+    display: inline;
+}
+li,h1{
+    display: inline;
+    cursor: pointer;
+}
+
+h1{
+    padding-right: 300px;
+   /** font-family:Verdana, Geneva, Tahoma, sans-serif;**/
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+li{
+    padding: 20px;
+}
+
+img{
+   width: 160px;
+    border-radius: 200px;
+    border-style: solid ;
+    border-color: black;
+    border-width: 5px;
+}
+
+.two{
+    padding-top: 30px;
+    padding-left: 330px;
+}
+
+td{
+    padding: 20px;
+}
+
+input{
+    border-radius: 30px;
+    padding: 7px;
+    background-color:black;
+    color: white;
+}
+
+a:hover{
+    color: rgb(100, 95, 95);
+}
+
+p{
+    color: rgb(31, 29, 29);
+}
+
+table{
+    font-size: 30px;
+}
+#er{
+    width: 30px;
+    height:30px;
+}
